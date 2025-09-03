@@ -8,7 +8,7 @@ int main() {
     double weightKg=static_cast<double>(130*0.453592); 
     double heightM=static_cast<double>(61*0.0254);
     double BMI=weightKg/(heightM*heightM);
-    cout<<"The BMI for this person is : "<<BMI<<endl;
+    cout<<"The BMI for this person is : "<<BMI<< "."<< endl;
  
 
 
